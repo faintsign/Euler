@@ -8,7 +8,6 @@
     Calculate the sum of the even fibonacii sum
 */ 
 
-import java.util.LinkedList;
 public class problemTwo {
     
     public static int fibonaciiSum(int N){
