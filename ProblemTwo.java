@@ -1,5 +1,5 @@
 /*
-    file: problemTwo
+    file: ProblemTwo
     project: Euler
     Date: 03/30/22
     Author: FaintSign
