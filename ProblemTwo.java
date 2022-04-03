@@ -1,11 +1,11 @@
 /*
-    file: ProblemTwo
-    project: Euler
+    File: ProblemTwo.java
+    Project: Euler
     Date: 03/30/22
     Author: FaintSign
     
     Description:
-    Calculate the sum of the even fibonacii sum
+    Calculate the sum of the even fibonacii numbers
 */ 
 
 public class problemTwo {
